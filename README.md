@@ -3,9 +3,6 @@
   
 
   <p>Driven by curiosity and impact, I build real-world AI systems powered by LLMs, Python, and modern ML ops stacks.</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=BaghCodes&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
