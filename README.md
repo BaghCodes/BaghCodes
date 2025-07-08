@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-<br>![coding (1)](https://github.com/vickypedia-12/vickypedia-12/assets/111296997/6a39de9b-7841-4a18-a332-15dbf4f5f018)
+
+<br>![coding (1)](coding (1).gif)
 ---
 
 ### 🚀 What I'm Working On
