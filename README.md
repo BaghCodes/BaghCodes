@@ -17,7 +17,6 @@
   </a>
 </p>
 
-<br>![coding (1)](coding (1).gif)
 ---
 
 ### 🚀 What I'm Working On
